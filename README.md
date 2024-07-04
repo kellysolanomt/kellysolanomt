@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm a student of Systems and Computing Enginering<br>💡I'm currently learning software development
+💻 I'm a student of Systems and Computing Enginering<br>💡I'm currently learning cloud computing
 
 
 ## 🌐 Socials:
